@@ -87,7 +87,7 @@ module.exports.delete=async function(req,res){
 module.exports.update=async function(req,res){
     try{
         // /products/:id/update_quantity/?number=10
-    await Product.findByIdAndUpdate(req.params.id,{
+        await Product.findByIdAndUpdate(req.params.id,{
         "quantity":req.query.number
         
     });

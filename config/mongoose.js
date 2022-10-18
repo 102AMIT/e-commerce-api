@@ -2,7 +2,7 @@
 
 const mongoose=require('mongoose');
 
-mongoose.connect('mongodb://localhost/ecommerce-api');
+mongoose.connect(`${process.env.DB_URL}`);
 
 const db=mongoose.connection;
 
