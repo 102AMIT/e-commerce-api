@@ -3,6 +3,31 @@ e-commerce-api using express and mongoDB .Here i'm performing CRUD operation . A
 
 hosted link : https://e-commerce-api-amit999.herokuapp.com/
 
+Folder Structure:
+
+1.  config
+    *  mongoose.js
+2.  controller
+    *  products.js
+3.  models
+    *  product.js
+4.  routes
+    1.  api folder
+            *index.js
+    2.  index.js
+5.  .env
+
+6.  .gitignore
+
+7.  index.js
+
+8.  package-lock.json
+
+9.  package.json
+
+10. README.md
+
+*********************************************************************************************************************************
 $ Technologies Used
     NodeJS
     Express
@@ -13,6 +38,7 @@ $ Prerequisites
     Git
     NodeJS
     Installation
+**********************************************************************************************************************************    
 Into the project directory
 Installing NPM dependencies
 npm install
@@ -22,7 +48,7 @@ npm start
 
 The Server should now be running at http://localhost:8000/
 
-
+***********************************************************************************************************************************
 
 Test My API’s using Postman
 
