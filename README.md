@@ -48,24 +48,21 @@ And now I show you how to perform operation using my hosted link :------------
 
 
 1.  API to add products to the database
-    ![CHEESE!]
-    (https://drive.google.com/file/d/1ugb49TEJdVo_i3cQRBXLlGQUiwk3FwoD/view?usp=share_link)
-
     ![Create product](https://user-images.githubusercontent.com/96186566/200129067-13897f5a-7a6b-41c9-91e4-2a106d60d2f7.JPG)
 
 2.  API to list products
-    ![CHEESE!]
-    (https://drive.google.com/file/d/1q-mhNqvjpcb_ZNaXOp4fdqu-mXLvS2tH/view?usp=share_link)
+    
+    ![Get all product](https://user-images.githubusercontent.com/96186566/200129123-6bad8a09-38e6-4056-9b91-276029d07e6b.JPG)
 
 
 3.  API to delete products
-    ![CHEESE!]
-    (https://drive.google.com/file/d/1BpY6ZJtzaIi1eNX9598XVG13kYJmH1t1/view?usp=share_link)
+    ![delete product](https://user-images.githubusercontent.com/96186566/200129141-a9f02c6f-cdf2-4db8-b0d2-6873225a8fcf.JPG)
+
 
 
 4.  API to update quantity of a product (can be incremented or decremented)
-    ![CHEESE!]
-    (https://drive.google.com/file/d/1L6ImimanATe_XDXVLJz_2fzWfec7_pD0/view?usp=share_link)
+    ![update product](https://user-images.githubusercontent.com/96186566/200129149-72c53e8c-2975-4c83-927f-1f1d675d962a.JPG)
+
 
 
 
