@@ -51,6 +51,7 @@ And now I show you how to perform operation using my hosted link :------------
     ![CHEESE!]
     (https://drive.google.com/file/d/1ugb49TEJdVo_i3cQRBXLlGQUiwk3FwoD/view?usp=share_link)
 
+    ![Create product](https://user-images.githubusercontent.com/96186566/200129067-13897f5a-7a6b-41c9-91e4-2a106d60d2f7.JPG)
 
 2.  API to list products
     ![CHEESE!]
