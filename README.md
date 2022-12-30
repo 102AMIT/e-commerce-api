@@ -1,8 +1,9 @@
 # e-commerce-api
 e-commerce-api using express and mongoDB .Here i'm performing CRUD operation . And aslo i follow MVC structure .
 
-hosted link : https://e-commerce-api-amit999.herokuapp.com/
+hosted link : https://ecommerce-api-q10y.onrender.com/ //Updated link please change if you use this api
 
+Please replace the hoisted Url if you Use this api .
 Folder Structure:
 
 1.  config
